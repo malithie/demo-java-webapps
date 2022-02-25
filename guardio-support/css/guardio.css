@@ -1,0 +1,150 @@
+/*
+~   Copyright (c) 2020 WSO2 Inc. (http://wso2.com) All Rights Reserved.
+~
+~   Licensed under the Apache License, Version 2.0 (the "License");
+~   you may not use this file except in compliance with the License.
+~   You may obtain a copy of the License at
+~
+~        http://www.apache.org/licenses/LICENSE-2.0
+~
+~   Unless required by applicable law or agreed to in writing, software
+~   distributed under the License is distributed on an "AS IS" BASIS,
+~   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~   See the License for the specific language governing permissions and
+~   limitations under the License.
+*/
+
+:root {
+  --primary-color: #262565;
+  --primary-color-lighten: #3d3c78;
+  --secondary-color: #f9ae2c;
+  --secondary-color-lighten: #fdcb0f;
+  --background: #ffffff;
+  --dark-background: #1e202d;
+  --secondary-background: #f8f9fa;
+  --default-border-radius: 10px;
+}
+
+.main-content {
+  margin: 0;
+  padding-bottom: 60px;
+  padding-top: 62px;
+  min-height: 100vh;
+}
+
+.dashboard-content {
+  min-height: calc(100vh - 128px);
+  padding-top: 20px;
+}
+
+.app-navbar {
+  background: var(--secondary-background);
+  color: var(--primary-color);
+  border-bottom: 3px solid var(--secondary-color);
+}
+
+.app-navbar .product-brand .portal-name {
+  font-weight: 100;
+}
+
+.app-navbar .navbar-nav .nav-link {
+  color: var(--primary-color);
+}
+
+.app-navbar .navbar-nav .nav-link:hover,
+.nav-link:hover {
+  color: var(--primary-color);
+}
+
+.app-navbar .navbar-brand img {
+  margin-right: 8px;
+}
+
+.app-navbar .navbar-brand {
+  display: flex;
+  color: var(--primary-color);
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.app-navbar .navbar-brand:hover {
+  color: var(--primary-color);
+}
+
+.app-header,
+.app-footer {
+  background: var(--dark-background) !important;
+}
+
+.app-footer {
+  justify-content: center;
+}
+
+.app-header .product-title {
+  display: contents;
+}
+
+.app-header .product-title .product-title-text {
+  font-size: 25px;
+}
+
+.app-header .product-title .product-title-text .portal-name {
+  font-weight: 200;
+}
+
+.segment-header {
+  margin: 5px 0 10px 10px !important;
+}
+
+.ui.secondary.vertical.pointing.menu .active.item {
+  border-color: #262565 !important;
+}
+
+.ui.menu a.item:hover {
+  background: #2625650a !important;
+}
+
+body .product-title .product-logo {
+  width: 40px;
+}
+
+.main-content .jumbotron {
+  background: var(--background);
+  letter-spacing: 0.1rem;
+}
+
+.main-content .jumbotron .jumbotron-heading {
+  font-size: 45px;
+  margin-bottom: 25px;
+  color: #262566;
+  font-weight: 700;
+}
+
+.main-content .jumbotron {
+  padding: 1em 2em;
+}
+
+.main-content .jumbotron .jumbotron-illustration img {
+  width: 500px;
+  margin-top: -60px;
+}
+
+.side-panel-wrapper {
+  width: 300px;
+  padding: 25px 15px;
+}
+
+/* Landing Page */
+
+.landing-page {
+  background-color: var(--dark-background);
+}
+
+.landing-page .footer {
+  color: #fff;
+}
+
+.landing-page .login-card .hint {
+  color: #666;
+  margin: 15px 0 25px 0;
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="167.637" height="201.156" viewBox="0 0 167.637 201.156">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.035" x2="0.5" y2="1.097" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff33b"/>
+      <stop offset="0.014" stop-color="#fee72e"/>
+      <stop offset="0.042" stop-color="#fed51b"/>
+      <stop offset="0.07" stop-color="#fdca10"/>
+      <stop offset="0.1" stop-color="#fdc70c"/>
+      <stop offset="0.4" stop-color="#f3903f"/>
+      <stop offset="0.8" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93e3a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-0.125" x2="0.5" y2="1.229" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="-0.581" x2="0.5" y2="2.031" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="protect-protection-sheild-safeguard-virus" transform="translate(-18.764 -2.003)">
+    <g id="Group_1" data-name="Group 1" transform="translate(18.764 2.002)">
+      <path id="Path_1" data-name="Path 1" d="M172.223,25.6,91.757,2.128a3.567,3.567,0,0,0-1.878,0L9.414,25.6A3.353,3.353,0,0,0,7,28.816V89.165a76.013,76.013,0,0,0,22.43,53.879v.034l59.008,59.109a3.4,3.4,0,0,0,4.761,0l59.008-59.142a76.013,76.013,0,0,0,22.43-53.879V28.816a3.353,3.353,0,0,0-2.414-3.219Zm-4.292,63.568a69.315,69.315,0,0,1-20.485,49.151L90.819,195.045,34.191,138.317A69.315,69.315,0,0,1,13.705,89.165V31.331l77.113-22.5,77.113,22.5Z" transform="translate(-7 -2.002)" fill="url(#linear-gradient)"/>
+      <path id="Path_2" data-name="Path 2" d="M149.4,25.862,82.346,6.316a3,3,0,0,0-1.878,0L13.414,25.862A3.353,3.353,0,0,0,11,29.081V79.372A62.723,62.723,0,0,0,29.507,123.8l49.52,49.587a3.319,3.319,0,0,0,4.761,0L133.274,123.8a62.616,62.616,0,0,0,18.541-44.424V29.081a3.353,3.353,0,0,0-2.414-3.219Zm-4.292,53.51a56.108,56.108,0,0,1-16.563,39.7l-47.14,47.207-47.14-47.207a56.028,56.028,0,0,1-16.563-39.7V31.6l63.7-18.574L145.11,31.6Z" transform="translate(2.411 7.791)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_4" data-name="Path 4" d="M62.586,15a43.586,43.586,0,1,0,43.586,43.586A43.586,43.586,0,0,0,62.586,15Zm0,80.466a36.88,36.88,0,1,1,36.88-36.88A36.88,36.88,0,0,1,62.586,95.466Z" transform="translate(21.233 28.577)" fill="url(#linear-gradient-3)"/>
+      <text id="G" transform="translate(66.236 105)" fill="#f0803d" font-size="52" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">G</tspan></text>
+    </g>
+  </g>
+</svg>
